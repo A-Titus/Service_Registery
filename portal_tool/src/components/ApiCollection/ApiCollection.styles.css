@@ -1,0 +1,7 @@
+.category1-menu {
+    margin-top: 170px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
